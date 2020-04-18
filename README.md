@@ -6,4 +6,4 @@ In this project, I learned how to use RTAB mapping with a ROS robotics project t
 
 Here is the map that was generated:
 
-![Image of RTAB](https://github.com/robinlamb/MapMyWorld/blob/master/images/3d_robot_house_map.png)
+![Image of 3D Map](https://github.com/robinlamb/MapMyWorld/blob/master/images/3d_robot_house.png)
